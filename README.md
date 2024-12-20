@@ -52,8 +52,7 @@ Este projeto implementa uma API REST com Node.js que:
 ### 1. Clonar o Repositório
 Execute o comando abaixo no terminal:
 ```bash
-git clone https://github.com/seu-usuario/jwt-api.git
-cd jwt-api
+git clone https://github.com/takeshitos/2JWT.git
 ```
 
 ### 2. Instalar Dependências
